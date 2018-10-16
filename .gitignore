@@ -61,9 +61,9 @@ typings/
 .next
 
 #merge conflicts
-	initializr/index.html.orig
-	initializr/index_BACKUP_84477.html
-	initializr/index_BASE_84477.html
-	initializr/index_LOCAL_84477.html
-	initializr/index_REMOTE_84477.html
-	*.orig
+initializr/index.html.orig
+initializr/index_BACKUP_84477.html
+initializr/index_BASE_84477.html
+initializr/index_LOCAL_84477.html
+initializr/index_REMOTE_84477.html
+*.orig
